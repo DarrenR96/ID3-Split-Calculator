@@ -1,7 +1,7 @@
 # ID3-Split-Calculator
 A decision tree learning calculator for the Iterative Dichotomiser 3 (ID3) algorithm.
 
-By utilizing the [ID3 Algorithm](https://en.wikipedia.org/wiki/ID3_algorithm), the best feature to split on is decided. This program requires to additional libraries outside of the default libraries included with Python. 
+By utilizing the [ID3 Algorithm](https://en.wikipedia.org/wiki/ID3_algorithm), the best feature to split on is decided. This program requires to additional libraries outside of the default libraries included with Python (math, csv). Therefore this needs to extra set-up configuration. 
 Tested and working on Python 3.7. 
 
 An example of using this calculator is included in exampleUsage.py. 
