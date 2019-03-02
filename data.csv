@@ -1,0 +1,21 @@
+Gender,Car Type,Guitar,Class
+M,Family,Fender,C0
+M,Sports,Gibson,C0
+M,Sports,Gibson,C0
+M,Sports,Fender,C0
+M,Sports,Gibson,C0
+M,Sports,Rollins,C0
+F,Sports,Fender,C0
+F,Sports,Fender,C0
+F,Sports,Gibson,C0
+F,Luxury,Rollins,C0
+M,Family,Rollins,C1
+M,Family,Palmer,C1
+M,Family,Gibson,C1
+M,Luxury,Palmer,C1
+F,Luxury,Gibson,C1
+F,Luxury,Fender,C1
+F,Luxury,Gibson,C1
+F,Luxury,Gibson,C1
+F,Luxury,Gibson,C1
+F,Luxury,Rollins,C1
